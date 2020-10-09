@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/csIpp
+/ipch/CONSOLEAPPLICATION1-b4c7e3f9
+/IppLibrary/bin/Debug
+/IppLibrary/obj/Debug
+/Sample/BmpShow/bin/Debug
+/Sample/BmpShow/obj/Debug
+/csIpp.sdf
+/Sample/ConsoleApplication1/ConsoleApplication1.vcxproj.user
+/Sample/ConsoleApplication1/ConsoleApplication1.vcxproj.filters
